@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-pavel-bc-mcp-blockchain-query-badge.png)](https://mseep.ai/app/mcp-mirror-pavel-bc-mcp-blockchain-query)
+
 # MCP Blockchain Query Server
 
 ![Logo](assets/mcp-blockchain-query.jpg)
